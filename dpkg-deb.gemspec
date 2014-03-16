@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["felix.gilcher@asquera.de"]
   spec.summary       = %q{A ruby wrapper around dpgk-deb}
   spec.description   = %q{A ruby wrapper for dpbk-deb that allows reading of control information from .deb packages}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/Asquera/dpkg-deb-ruby-wrapper"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
